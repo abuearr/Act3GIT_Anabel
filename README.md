@@ -11,3 +11,8 @@ Cada proyecto tiene su propia carpeta con los archivos de código fuente.
 **Tecnologías utilizadas**:  
 - **Java** 
 
+## Este repositorio contiene:
+- *Proyecto2_git* 
+- *proyecto_git* 
+- *README.md* 
+- *.gitignore* 
