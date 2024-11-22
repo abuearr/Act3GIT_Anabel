@@ -19,7 +19,7 @@ public class Proyecto2 {
 		escaner.close(); 
 		
 		if (valor1<valor2) {
-			for (int i= valor1; i<valor2; i+=7) {  
+			for (int i= valor1; i<valor2; i+=5) {  
 				System.out.println(i);
 			}
 		if ((valor3>valor1) && (valor3<valor2)){
